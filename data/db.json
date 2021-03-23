@@ -1,0 +1,7 @@
+{
+    "players":[
+        { "Name": "Alex de Souza", "id" : 10, "Position": "Attacking Midfield" },
+        { "Name": "Moussa Sow", "id" : 7, "Position": "Centre-Forward" },
+        {"Name":"Dirk Kuyt","id" : 11, "Position": "Right Winger" }
+    ]
+}
